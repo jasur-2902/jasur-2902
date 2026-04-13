@@ -63,20 +63,56 @@ focus: Full-Stack Development, Mobile Apps, Machine Learning
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">CarRecognition</h3>
+<p align="center">
 <a href="https://github.com/jasur-2902/CarRecognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasur-2902&repo=CarRecognition&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/github/stars/jasur-2902/CarRecognition?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+</p>
+<p align="center">Best vehicle recognition app — determines license plate, color, model, brand & year</p>
+<p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat&logo=opencv&logoColor=white"/></p>
+</td>
+<td width="50%">
+<h3 align="center">Gen-AI-Avatars</h3>
+<p align="center">
 <a href="https://github.com/jasur-2902/Gen-AI-Avatars">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasur-2902&repo=Gen-AI-Avatars&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/github/stars/jasur-2902/Gen-AI-Avatars?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+</p>
+<p align="center">GenAI avatars — converts LLM text to custom voice & face using 1 image + 1 min of voice</p>
+<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GenAI-412991?style=flat&logo=openai&logoColor=white"/></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">PostureDetection</h3>
+<p align="center">
 <a href="https://github.com/jasur-2902/PostureDetection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasur-2902&repo=PostureDetection&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/github/stars/jasur-2902/PostureDetection?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+</p>
+<p align="center">Enhance your posture with Machine Learning</p>
+<p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></p>
+</td>
+<td width="50%">
+<h3 align="center">SafeTravels</h3>
+<p align="center">
 <a href="https://github.com/jasur-2902/SafeTravels">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasur-2902&repo=SafeTravels&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</div>
+<img src="https://img.shields.io/github/stars/jasur-2902/SafeTravels?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+</p>
+<p align="center">Safe travel planning application</p>
+<p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/></p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -93,14 +129,6 @@ focus: Full-Stack Development, Mobile Apps, Machine Learning
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasur-2902&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
-</div>
-
----
-
-## Snake Eating My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jasur-2902/jasur-2902/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
