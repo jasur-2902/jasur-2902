@@ -123,11 +123,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasur-2902&show_icons=true&theme=github_dark&border_color=58a6ff&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasur-2902&layout=compact&theme=github_dark&border_color=58a6ff&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasur-2902&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" />
 </div>
 
