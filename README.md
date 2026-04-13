@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Jasur%20Shukurov&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Lead%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=8%2B+Years+of+Software+Engineering;Building+Products+from+NYC+%F0%9F%97%BD;Java+%7C+Kotlin+%7C+Python+%7C+JavaScript;Computer+Vision+%26+GenAI+Explorer;Open+Source+Contributor+%26+Builder)](https://github.com/jasur-2902)
 
 <a href="https://github.com/jasur-2902?tab=followers">
