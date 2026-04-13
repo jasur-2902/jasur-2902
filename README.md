@@ -112,6 +112,30 @@ focus: Full-Stack Development, Mobile Apps, Machine Learning
 <p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/></p>
 </td>
 </tr>
+<tr>
+<td width="50%">
+<h3 align="center">OpenClawDefender</h3>
+<p align="center">
+<a href="https://github.com/jasur-2902/OpenClawDefender">
+<img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/github/stars/jasur-2902/OpenClawDefender?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+</p>
+<p align="center">Open-source claw defender built with Rust</p>
+<p align="center"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/></p>
+</td>
+<td width="50%">
+<h3 align="center">FootballQuiz</h3>
+<p align="center">
+<a href="https://github.com/jasur-2902/FootballQuiz">
+<img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/github/stars/jasur-2902/FootballQuiz?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+</p>
+<p align="center">Football trivia quiz application</p>
+<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></p>
+</td>
+</tr>
 </table>
 
 ---
