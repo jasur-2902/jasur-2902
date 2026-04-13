@@ -120,7 +120,6 @@ focus: Full-Stack Development, Mobile Apps, Machine Learning
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasur-2902&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jasur-2902&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" />
 </div>
 
 <div align="center">
