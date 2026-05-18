@@ -1,11 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Lead+Software+Engineer;8%2B+Years+of+Full-Stack+Development;Java+%7C+Kotlin+%7C+Python+%7C+Rust;New+York+City+%F0%9F%97%BD)](https://github.com/jasur-2902)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Lead+Software+Engineer;8%2B+Years+of+Full-Stack+Development;Java+%7C+Kotlin+%7C+Python+%7C+Rust;New+York+City+%F0%9F%97%BD)](https://github.com/jasurshukurov)
 
-<a href="https://github.com/jasur-2902?tab=followers">
-  <img src="https://img.shields.io/github/followers/jasur-2902?label=Followers&style=social" alt="GitHub followers">
+<a href="https://github.com/jasurshukurov?tab=followers">
+  <img src="https://img.shields.io/github/followers/jasurshukurov?label=Followers&style=social" alt="GitHub followers">
 </a>
-<img src="https://komarev.com/ghpvc/?username=jasur-2902&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=jasurshukurov&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views">
 
 </div>
 
@@ -48,10 +48,10 @@
 <td width="50%">
 <h3 align="center">CarRecognition</h3>
 <p align="center">
-<a href="https://github.com/jasur-2902/CarRecognition">
+<a href="https://github.com/jasurshukurov/CarRecognition">
 <img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<img src="https://img.shields.io/github/stars/jasur-2902/CarRecognition?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/jasurshukurov/CarRecognition?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
 </p>
 <p align="center">Best vehicle recognition app — determines license plate, color, model, brand & year</p>
 <p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat&logo=opencv&logoColor=white"/></p>
@@ -59,10 +59,10 @@
 <td width="50%">
 <h3 align="center">Gen-AI-Avatars</h3>
 <p align="center">
-<a href="https://github.com/jasur-2902/Gen-AI-Avatars">
+<a href="https://github.com/jasurshukurov/Gen-AI-Avatars">
 <img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<img src="https://img.shields.io/github/stars/jasur-2902/Gen-AI-Avatars?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/jasurshukurov/Gen-AI-Avatars?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
 </p>
 <p align="center">GenAI avatars — converts LLM text to custom voice & face using 1 image + 1 min of voice</p>
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GenAI-412991?style=flat&logo=openai&logoColor=white"/></p>
@@ -72,10 +72,10 @@
 <td width="50%">
 <h3 align="center">PostureDetection</h3>
 <p align="center">
-<a href="https://github.com/jasur-2902/PostureDetection">
+<a href="https://github.com/jasurshukurov/PostureDetection">
 <img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<img src="https://img.shields.io/github/stars/jasur-2902/PostureDetection?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/jasurshukurov/PostureDetection?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
 </p>
 <p align="center">Enhance your posture with Machine Learning</p>
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></p>
@@ -83,10 +83,10 @@
 <td width="50%">
 <h3 align="center">SafeTravels</h3>
 <p align="center">
-<a href="https://github.com/jasur-2902/SafeTravels">
+<a href="https://github.com/jasurshukurov/SafeTravels">
 <img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<img src="https://img.shields.io/github/stars/jasur-2902/SafeTravels?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/jasurshukurov/SafeTravels?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
 </p>
 <p align="center">Safe travel planning application</p>
 <p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/></p>
@@ -96,10 +96,10 @@
 <td width="50%">
 <h3 align="center">OpenClawDefender</h3>
 <p align="center">
-<a href="https://github.com/jasur-2902/OpenClawDefender">
+<a href="https://github.com/jasurshukurov/OpenClawDefender">
 <img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<img src="https://img.shields.io/github/stars/jasur-2902/OpenClawDefender?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/jasurshukurov/OpenClawDefender?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
 </p>
 <p align="center">Open-source claw defender built with Rust</p>
 <p align="center"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/></p>
@@ -107,10 +107,10 @@
 <td width="50%">
 <h3 align="center">FootballQuiz</h3>
 <p align="center">
-<a href="https://github.com/jasur-2902/FootballQuiz">
+<a href="https://github.com/jasurshukurov/FootballQuiz">
 <img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<img src="https://img.shields.io/github/stars/jasur-2902/FootballQuiz?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/jasurshukurov/FootballQuiz?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
 </p>
 <p align="center">Football trivia quiz application</p>
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></p>
@@ -123,7 +123,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasur-2902&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasurshukurov&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" />
 </div>
 
 ---
@@ -133,7 +133,7 @@
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasurshukurov/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasur-2902)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasurshukurov)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasur@shukurov.me)
 
 
